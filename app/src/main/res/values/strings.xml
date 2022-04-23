@@ -1,0 +1,101 @@
+<resources>
+
+    <string name="app_name">FranzCadiente_YiseulKo_COMP304Sec003_Lab4_Ex1</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string-array name="cuisines">
+        <item>Korean</item>
+        <item>Italian</item>
+        <item>Filipino</item>
+        <item>Chinese</item>
+    </string-array>
+
+    <string-array name="korean">
+        <item>Lim Ga Ne Restaurant</item>
+        <item>Bapbo Korean Restaurant</item>
+        <item>Makkal Chon</item>
+    </string-array>
+
+    <string-array name="italian">
+        <item>Figo Toronto</item>
+        <item>Trattoria Fieramosca</item>
+        <item>Il Covo</item>
+    </string-array>
+
+    <string-array name="filipino">
+        <item>Bistro Manila</item>
+        <item>Remelys Restaurant</item>
+        <item>Barrio Fiesta</item>
+    </string-array>
+
+    <string-array name="chinese">
+        <item>Chopstick House</item>
+        <item>Hakka Legend Asian Cuisine</item>
+        <item>Super Taste</item>
+    </string-array>
+
+    <string-array name="bistroManila">
+        <item>43.78754</item>
+        <item>-79.26694</item>
+    </string-array>
+
+    <string-array name="remelys">
+        <item>43.79248</item>
+        <item>-79.24954</item>
+    </string-array>
+
+    <string-array name="barriofiesta">
+        <item>43.79555</item>
+        <item>-79.22644</item>
+    </string-array>
+
+    <string-array name="chopstick">
+        <item>43.79517</item>
+        <item>-79.24019</item>
+    </string-array>
+
+    <string-array name="hakka">
+        <item>43.72613</item>
+        <item>-79.28668</item>
+    </string-array>
+
+    <string-array name="supertaste">
+        <item>43.78748</item>
+        <item>-79.26587</item>
+    </string-array>
+
+    <string-array name="LimGaNeRestaurant">
+        <item>43.664031140046305</item>
+        <item>-79.41689169282323</item>
+    </string-array>
+
+    <string-array name="BapboKoreanRestaurant">
+        <item>43.655595845296645</item>
+        <item>-79.38494027896995</item>
+    </string-array>
+
+    <string-array name="MakkalChon">
+        <item>43.744674434169106</item>
+        <item>-79.29630022441263</item>
+    </string-array>
+
+    <string-array name="FigoToronto">
+        <item>43.647709850200215</item>
+        <item>-79.39043150948676</item>
+    </string-array>
+
+    <string-array name="TrattoriaFieramosca">
+        <item>43.66956230173063</item>
+        <item>-79.39733923693092</item>
+    </string-array>
+
+    <string-array name="IlCovo">
+        <item>43.65521663732858</item>
+        <item>-79.41336458591584</item>
+    </string-array>
+
+
+    <!-- 0 : lat, 1: long -->
+
+
+</resources>
